@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3c802a82c06cfa4995a8b1a25ef90d9, type: 3}
+  m_Name: PoweBoost
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 499753127722224165, guid: dac8767702e97ad4fbf7111750bb7043, type: 3}
+  itemName: power boost
